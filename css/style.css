@@ -246,6 +246,19 @@ header .intro-text {
   text-align: center;
 }
 
+#attributionDiv {
+  padding: 0;
+  margin: 0;
+}
+
+#attribution {
+  font-size: 15px;
+  background-color: rgba(121, 121, 121, 0);
+  padding-left: 10;
+  margin: 0;
+  font-style: italic;
+}
+
 #learnMoreButton {
   font-size: 20px;
 } 
